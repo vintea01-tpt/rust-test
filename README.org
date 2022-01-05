@@ -1,0 +1,5 @@
+* jupyter環境の参考
+
+- https://github.com/google/evcxr
+
+- https://zenn.dev/esaka/scraps/e9baa5851f6109
